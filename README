@@ -1,0 +1,10 @@
+wikibot.py:
+This one's for posting automatic scheduled Cointest posts, and it's controlled from the wiki. BTW don't take my variable names seriously, they're just random
+
+votemanipulation.py:
+is what CryptoChief asked me to work on to detect (you guessed it) vote manipulation in r/CC. It uses my sentiment.py as a dependency. It's a work in progress and still has a few bugs.
+
+Cointestpromoter.py:
+This is the bot to change the way Cointest-promoting comments are made, and the criteria for them to be made. As you can see it's pretty manual, especially the dictionary with trigger words
+
+don't use CointestBot.py which was on my home directory because it doesn't work properly, use Cointest.py instead. 
